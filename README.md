@@ -1,4 +1,4 @@
-pomelo-globalChannel-plugin
+pomelo-globalchannel-plugin
 ===========================
 
-globalChannel plugin for pomelo
+globalchannel plugin for pomelo
