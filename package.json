@@ -1,9 +1,9 @@
 {
 	"name": "pomelo-globalchannel-plugin",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"private": false,
 	"dependencies": {
-  	"redis": "0.8.4",
-  	"pomelo-logger": "0.0.3"
+  	"redis": "0.10.0",
+  	"pomelo-logger": "0.1.2"
 	}
 }
