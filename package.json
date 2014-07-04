@@ -1,6 +1,6 @@
 {
 	"name": "pomelo-globalchannel-plugin",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"private": false,
 	"dependencies": {
   	"redis": "0.10.0",
