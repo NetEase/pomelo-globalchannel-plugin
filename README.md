@@ -45,7 +45,7 @@ remove user from channel
 + sid - frontend server id
 + cb - callback function
 
-###getMemberBySid(name, sid, cb)
+###getMembersBySid(name, sid, cb)
 get members by frontend server id
 ####Arguments
 + name - channel name
